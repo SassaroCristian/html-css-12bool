@@ -11,4 +11,5 @@
 
 .nested-col {
     background-color: blueviolet !important;
+    border: 10px solid red !important;
 }
